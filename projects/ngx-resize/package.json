@@ -1,16 +1,16 @@
 {
     "name": "ngx-resize",
-    "version": "2.0.0",
+    "version": "3.0.0",
     "repository": {
         "type": "git",
-        "url": "https://github.com/nartc/ngx-resize/tree/main/projects/ngx-resize"
+        "url": "https://github.com/keeganosler/ngx-resize"
     },
     "author": {
-        "name": "Chau Tran",
-        "email": "nartc7789@gmail.com",
-        "url": "https://nartc.me"
+        "name": "Keegan A. Osler",
+        "email": "oslerkeegan@gmail.com",
+        "url": "https://keeganosler.github.io"
     },
-    "description": "NgxResize Service",
+    "description": "NgxResize Service (ng-17 Fork)",
     "keywords": [
         "typescript",
         "resize observer",
@@ -18,8 +18,8 @@
     ],
     "license": "MIT",
     "peerDependencies": {
-        "@angular/common": "^14.0.0 || ^15.0.0 || ^16.0.0",
-        "@angular/core": "^14.0.0 || ^15.0.0 || ^16.0.0"
+        "@angular/common": "^14.0.0 || ^15.0.0 || ^16.0.0 || ^17.0.0",
+        "@angular/core": "^14.0.0 || ^15.0.0 || ^16.0.0 || ^17.0.0"
     },
     "dependencies": {
         "tslib": "^2.0.0"
